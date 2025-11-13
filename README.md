@@ -48,7 +48,9 @@ Foco em **React, React Native, TypeScript e Node.js**
 </div>
 
 <div>
+  
 ![Snake animation](https://github.com/DavidHSCruz/DavidHSCruz/blob/output/snake.svg)
+
 </div>
 
 </div>
