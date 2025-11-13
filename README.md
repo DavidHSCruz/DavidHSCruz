@@ -1,6 +1,6 @@
 <div>
 
-# 👋 Olá, eu sou **David Henrique da Silva Cruz**
+# 👋 Olá, eu sou **David Cruz**
 
 **Desenvolvedor Front-end & Mobile**  
 São José dos Pinhais – PR  
