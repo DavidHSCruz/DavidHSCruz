@@ -1,29 +1,49 @@
-# 👋 Olá, eu sou David Henrique da Silva Cruz
+<div>
 
-Desenvolvedor Front-end & Mobile  
+# 👋 Olá, eu sou **David Henrique da Silva Cruz**
+
+**Desenvolvedor Front-end & Mobile**  
 São José dos Pinhais – PR  
-Foco em **React, React Native, TypeScript, Node.js**
+Foco em **React, React Native, TypeScript e Node.js**
 
 ---
 
-## Tecnologias e Linguagens de Programação
+### Tecnologias e Linguagens
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<div>
+  
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 
-
-
-
-![David GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidHSCruz&show_icons=true&theme=dracula)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidHSCruz&layout=compact&theme=dracula)
+</div>
 
 ---
 
-## Onde me encontrar
+### Estatísticas do GitHub
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DavidHSCruz)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-hs-cruz/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/david.hs.cruz/)
+<div>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DavidHSCruz&show_icons=true&theme=dracula&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidHSCruz&layout=compact&theme=dracula" />
+
+</div>
+
+---
+
+### Onde me encontrar
+
+<div>
+  <a href="https://github.com/DavidHSCruz" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/david-hs-cruz/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/david.hs.cruz/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</div>
+</div>
