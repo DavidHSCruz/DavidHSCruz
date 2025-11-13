@@ -46,4 +46,9 @@ Foco em **React, React Native, TypeScript e Node.js**
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
+
+<div>
+![Snake animation](https://github.com/DavidHSCruz/DavidHSCruz/blob/output/snake.svg)
+</div>
+
 </div>
